@@ -1,9 +1,9 @@
 ## React Native POCS
 
-This repository contains various Proof of Concept (PoC) projects developed in React Native using Expo. Each project aims to explore and demonstrate specific concepts related to mobile app development.
+This repository contains various Proof of Concept (PoC) projects developed in React Native using Expo.
 
 ### Projects
-Here are the available projects in this repository:
+Here are the available pocs in this repository:
 
 1. Management States
 
